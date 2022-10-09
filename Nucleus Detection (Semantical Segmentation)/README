@@ -1,4 +1,7 @@
 
 The identification of cell nuclei is the starting point for significant number of researches. Most of the 30 trillion cells 
 in the human body contain a nucleus that storing the DNA of the genetic code that programs each cell. Nucleus identification 
-allows researchers to identify each individual cell in a sample. This lets to measure how cells respond to different treatments, 
+allows researchers to identify each individual cell in a sample. This lets to measure how cells respond to different treatments.
+
+The goal of this project is to train and build model that capable accurately identify and semanticaly segment nuclei of cells 
+on medical images.
