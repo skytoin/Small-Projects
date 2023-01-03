@@ -1,0 +1,5 @@
+I combined Vareational Autoencoder/decoder with GAN net to generate pictures from given images of faces. 
+Vareational Autoencoder is trained on given dataset of image faces. However the GAN combination is trained 
+on random generated vectors in a shape of images. After I trained Vareational Autoencoder, then I used VAE 
+as a generator in the GAN architecture. During the training of GAN the Encoder part of VAE is untrainable. 
+Only the Decoder part was trained in GAN Training.
